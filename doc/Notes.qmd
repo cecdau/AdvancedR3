@@ -1,0 +1,3 @@
+Notes for the R-course. 
+The sandbox is used, but whenever something is worth saving, it ends up here. 
+
