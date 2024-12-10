@@ -1,5 +1,5 @@
 TODO: Add more to the title of your project here Lipidprofiles among
-patiens
+patiens with DM2
 
 # AdvancedR3:
 
@@ -13,7 +13,7 @@ data, doc and R folders.
 
 The following folders contain:
 
--   `data/`: The lipidomics data
+-   `data/`: The lipidomics data, i.e. the working data
 -   `doc/`: the learning file, (sandbox where I try out codes) and a
     document for notes
 -   `R/`: functions that can be sourced within the project
