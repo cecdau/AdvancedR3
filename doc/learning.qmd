@@ -21,4 +21,6 @@ descriptive_stats(lipidomics)
 
 ## Figure outputs
 
-\`\`\`
+```{r}
+plot_distributions(lipidomics)
+```
